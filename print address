@@ -1,0 +1,15 @@
+// using single print
+public class PrintAddress {
+    public static void main(String[] args) {
+        System.out.println("omicron 1,supertech czar, greater noida, 201310");
+    }
+}
+// using multiplr print
+public class PrintAddress {
+    public static void main(String[] args) {
+        System.out.println("omicron 1");
+        System.out.println("supertech czar");
+        System.out.println("greater noida");
+        System.out.println("201310");
+    }
+}
