@@ -1,0 +1,11 @@
+import java.io.*;
+class Main {
+    public static void main(String[] args) {
+        byte[] byteArray = { 75, 65, 82, 84, 73,75 };
+        String str = new String(byteArray);
+        System.out.println(str);
+        byte[] byteArray1 = { 107,97,114,116,105,107,46,115,104,97,114,109,97,64,73,73,76,77,46,101,100,117};
+        String str1 = new String(byteArray1);
+        System.out.println(str1);
+    }
+}
